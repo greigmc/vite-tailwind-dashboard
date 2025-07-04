@@ -18,3 +18,4 @@ npm run lint
 
 # Format code with Prettier
 npx prettier --write .
+```
