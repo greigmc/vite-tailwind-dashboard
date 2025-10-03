@@ -7,6 +7,12 @@ A modern frontend starter powered by [Vite](https://vitejs.dev/), [React 19](htt
 ## 🚀 Getting Started
 
 ```bash
+# Clone Repo
+git clone https://github.com/greigmc/vite-tailwind-dashboard.git
+
+# Go to
+cd vite-tailwind-dashboard
+
 # Install dependencies
 npm install
 
